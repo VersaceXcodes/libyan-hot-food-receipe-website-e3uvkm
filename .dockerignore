@@ -1,6 +1,8 @@
-/.git
-/node_modules
-.dockerignore
-.env
-Dockerfile
-fly.toml
+node_modules
+npm-debug.log
+vitereact/node_modules
+vitereact/dist
+.git
+.gitignore
+.github
+README.md
