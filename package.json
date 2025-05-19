@@ -1,0 +1,12 @@
+{
+  "name": "libyan-hot-food-receipe-website-e3uvkm",
+  "version": "1.0.0",
+  "description": "Generated project for libyan-hot-food-receipe-website-e3uvkm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

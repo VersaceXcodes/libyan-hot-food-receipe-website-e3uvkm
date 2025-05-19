@@ -1,0 +1,19 @@
+{
+  "timestamp": 1747666467140,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_SearchBar",
+      "version": "latest"
+    }
+  },
+  "projectId": "libyan-hot-food-receipe-website",
+  "files": [
+    {
+      "path": "/mnt/data/libyan-hot-food-receipe-website/vitereact/src/components/views/GV_SearchBar.tsx",
+      "type": "text",
+      "size": 2614,
+      "dependencies": false
+    }
+  ]
+}

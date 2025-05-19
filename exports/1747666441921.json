@@ -1,0 +1,19 @@
+{
+  "timestamp": 1747666441921,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_AdminNav",
+      "version": "1747666158589"
+    }
+  },
+  "projectId": "libyan-hot-food-receipe-website",
+  "files": [
+    {
+      "path": "/mnt/data/libyan-hot-food-receipe-website/vitereact/src/components/views/GV_AdminNav.tsx",
+      "type": "text",
+      "size": 2119,
+      "dependencies": false
+    }
+  ]
+}

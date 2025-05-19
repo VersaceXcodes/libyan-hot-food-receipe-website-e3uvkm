@@ -1,0 +1,19 @@
+{
+  "timestamp": 1747666196626,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_Landing",
+      "version": "1747666158389"
+    }
+  },
+  "projectId": "libyan-hot-food-receipe-website",
+  "files": [
+    {
+      "path": "/mnt/data/libyan-hot-food-receipe-website/vitereact/src/components/views/UV_Landing.tsx",
+      "type": "text",
+      "size": 3828,
+      "dependencies": false
+    }
+  ]
+}

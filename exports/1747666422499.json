@@ -1,0 +1,19 @@
+{
+  "timestamp": 1747666422499,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_Footer",
+      "version": "latest"
+    }
+  },
+  "projectId": "libyan-hot-food-receipe-website",
+  "files": [
+    {
+      "path": "/mnt/data/libyan-hot-food-receipe-website/vitereact/src/components/views/GV_Footer.tsx",
+      "type": "text",
+      "size": 2205,
+      "dependencies": false
+    }
+  ]
+}

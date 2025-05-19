@@ -1,0 +1,19 @@
+{
+  "timestamp": 1747666402655,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_AdminRecipeEditor",
+      "version": "latest"
+    }
+  },
+  "projectId": "libyan-hot-food-receipe-website",
+  "files": [
+    {
+      "path": "/mnt/data/libyan-hot-food-receipe-website/vitereact/src/components/views/UV_AdminRecipeEditor.tsx",
+      "type": "text",
+      "size": 21940,
+      "dependencies": false
+    }
+  ]
+}

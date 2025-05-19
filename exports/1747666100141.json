@@ -1,0 +1,19 @@
+{
+  "timestamp": 1747666100141,
+  "operation": {
+    "id": "webapp:react:store",
+    "refs": {
+      "id": "redux",
+      "version": "1747666022308"
+    }
+  },
+  "projectId": "libyan-hot-food-receipe-website",
+  "files": [
+    {
+      "path": "/mnt/data/libyan-hot-food-receipe-website/vitereact/src/store/main.tsx",
+      "type": "text",
+      "size": 6966,
+      "dependencies": false
+    }
+  ]
+}

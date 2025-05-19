@@ -1,0 +1,19 @@
+{
+  "timestamp": 1747666282888,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_AdminLogin",
+      "version": "latest"
+    }
+  },
+  "projectId": "libyan-hot-food-receipe-website",
+  "files": [
+    {
+      "path": "/mnt/data/libyan-hot-food-receipe-website/vitereact/src/components/views/UV_AdminLogin.tsx",
+      "type": "text",
+      "size": 3595,
+      "dependencies": false
+    }
+  ]
+}
